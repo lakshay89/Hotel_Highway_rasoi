@@ -69,7 +69,7 @@ p{
     color: white;
     margin-bottom: 5rem;
 }
-.carousel-item img{
+.carousel-item .abc{
    width: 100% !important;
     height: 100vh !important;
     object-fit: fill !important;
