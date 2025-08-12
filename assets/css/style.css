@@ -70,7 +70,9 @@ p{
     margin-bottom: 5rem;
 }
 .carousel-item img{
-    /* object-fit: cover; */
+   width: 100% !important;
+    height: 100vh !important;
+    object-fit: fill !important;
 }
 .SubHead .style{
     width: 50px;
