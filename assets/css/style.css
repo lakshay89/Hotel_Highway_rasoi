@@ -69,6 +69,23 @@ p{
     color: white;
     margin-bottom: 5rem;
 }
+.carousel-caption h5 {
+      font-size: 30px !important;
+      
+
+}
+.carousel-caption {
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.4); /* semi-transparent overlay */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .carousel-item .abc{
    width: 100% !important;
     height: 100vh !important;
@@ -516,7 +533,7 @@ footer a:hover{
     font-size: 13px;
   }
   .Logo_Main{
-    height:30px;
+    height:40px !important;
   }
 }
 
